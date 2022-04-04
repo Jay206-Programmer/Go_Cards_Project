@@ -9,7 +9,7 @@ We are creating a Cards utility that can,
 - Save Deck to a File
 - Read Deck from the File
 
-Also, we will be looking at how to create **tests** in **Go**.
+Also, we will be looking at how to implement **testing** in **Go**.
 
 ### Concepts Covered
 - Packages
