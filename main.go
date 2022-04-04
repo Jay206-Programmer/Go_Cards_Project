@@ -1,9 +1,11 @@
 package main
 
-import "fmt"
+// import "fmt"
 
 func main() {
-	card := "Ace of Spades"
-	fmt.Println(card)
+	// cards.saveToFile("myDeck.txt")
+	// card := newDeckFromFile("myDeck.txt")
+	cards := newDeck()
+	cards.shuffle()
+	cards.print()
 }
-
